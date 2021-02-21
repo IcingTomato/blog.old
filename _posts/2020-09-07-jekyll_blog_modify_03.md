@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      采采芣苢 薄言襭之
-subtitle:   Jekyll博客迁移计划：Jekyll on Ubuntu 的二次配置和 AWS 迁移
+title:      Jekyll博客迁移计划（三）：Jekyll on Ubuntu 的二次配置和 AWS 迁移
+subtitle:   把自己之前挖的坑填上
 date:       2020-09-07
 author:     千夜chiya
 header-img: img/2020/09/07/01/title.jpg

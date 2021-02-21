@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      求我庶士 迨其谓之
-subtitle:   Python三步实现人脸识别
+title:      Python三步实现人脸识别
+subtitle:   万能Python哈哈哈
 date:       2020-11-21
 author:     千夜chiya
 header-img: img/2020/11/21/01/title.jpg

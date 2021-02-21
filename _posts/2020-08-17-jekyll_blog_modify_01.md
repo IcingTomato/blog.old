@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      绵绵葛藟 在河之漘
-subtitle:   Jekyll博客迁移计划：Jekyll on Ubuntu 和 Nginx 的配置
+title:      Jekyll博客迁移计划（一）：Jekyll on Ubuntu 和 Nginx 的配置
+subtitle:   Jekyll on Ubuntu 和 Nginx 的配（踩）置（坑）
 date:       2020-08-17
 author:     千夜chiya
 header-img: img/2020/08/17/01/title.jpg

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      爰采麦矣 沬之北矣 
-subtitle:   为全志H5/H3/H2+编译U-boot和Linux Kernel
+title:      为全志H5/H3/H2+编译U-boot和Linux Kernel 
+subtitle:   NanoPi乃核心板之神
 date:       2021-02-07
 author:     千夜chiya
 header-img: img/2021/02/07/01/title.jpg

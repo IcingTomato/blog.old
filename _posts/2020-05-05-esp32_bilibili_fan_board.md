@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      将翱将翔 弋凫与雁
-subtitle:   【转载】用Arduino玩转掌控板(ESP32)：B站粉丝计数器
+title:      【转载】用Arduino玩转掌控板(ESP32)：B站粉丝计数器
+subtitle:   大名鼎鼎的“B数器”教程
 date:       2020-05-05
 author:     铁熊玩创客
 header-img: img/2020/05/05/03/title2.jpg

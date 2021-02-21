@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      硕人其颀 衣锦褧衣 
-subtitle:   Quark核心板的GPIO推算过程
+title:      Quark核心板的GPIO推算过程 
+subtitle:   看文档就好了
 date:       2021-02-01
 author:     千夜chiya
 header-img: img/2021/02/01/01/title.jpg

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      采采卷耳 不盈顷筐 
-subtitle:   Jekyll博客完整教程
+title:      Jekyll博客迁移计划（四）：Jekyll博客完整搭建教程
+subtitle:   这下子轻车熟路迁移阿里云
 date:       2021-02-19
 author:     千夜chiya
 header-img: img/2021/02/19/01/title.jpg

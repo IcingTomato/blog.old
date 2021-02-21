@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      娈彼诸姬 聊与之谋
-subtitle:   【转载】Live2D的配置与Live2DViewerEX的使用
+title:      【转载】Live2D的配置与Live2DViewerEX的使用
+subtitle:   谁不想在桌面放个桌宠呢
 date:       2020-08-16
 author:     Eikanya's Blog
 header-img: img/2020/08/16/01/title.jpg

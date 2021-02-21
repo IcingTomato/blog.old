@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      如临深渊 如履薄冰
-subtitle:   Linux最危险的命令
+title:      Linux最危险的命令
+subtitle:   总之别用就是了
 date:       2020-05-07
 author:     千夜chiya
 header-img: img/2020/05/07/01/title.jpg

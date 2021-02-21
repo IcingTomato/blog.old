@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      硕人其颀 衣锦褧衣 
-subtitle:   Quark核心板的简单入门
+title:      Quark核心板的简单入门 
+subtitle:   还真是挺简单的毕竟自己玩过NanoPi
 date:       2021-01-26
 author:     千夜chiya
 header-img: img/2021/01/26/01/title.jpg

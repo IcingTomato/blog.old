@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      秩秩斯干 幽幽南山
-subtitle:   微软Zune播放器的折腾之旅
+title:      微软Zune播放器的折腾之旅
+subtitle:   Zune 30G, Zune HD的玩机教程
 date:       2020-05-05
 author:     千夜chiya
 header-img: img/2020/05/05/title.jpg

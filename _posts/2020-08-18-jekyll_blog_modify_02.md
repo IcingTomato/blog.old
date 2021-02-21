@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      屡顾尔仆 不输尔载
-subtitle:   Jekyll博客迁移计划：Gitalk 插件与 Google Analytics 的配置
+title:      Jekyll博客迁移计划（二）：Gitalk 插件与 Google Analytics 的配置
+subtitle:   这次还好没啥坑
 date:       2020-08-18
 author:     千夜chiya
 header-img: img/2020/08/18/01/title.jpg

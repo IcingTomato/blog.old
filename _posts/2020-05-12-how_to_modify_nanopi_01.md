@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      葛生蒙楚 蔹蔓于野
-subtitle:   玩转 FriendlyARM NanoPi Neo2 Black 的曲折历程(一）
+title:      玩转 FriendlyARM NanoPi的曲折历程(一）
+subtitle:   Linux常用命令归纳
 date:       2020-05-12
 author:     千夜chiya
 header-img: img/2020/05/12/01/title.jpg

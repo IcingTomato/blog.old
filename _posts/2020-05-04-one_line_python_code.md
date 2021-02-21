@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      参差荇菜 左右流之
-subtitle:   一行Python代码能干什么
+title:      一行Python代码能干什么
+subtitle:   一行代码领略Python这古老但富有活力的脚本语言
 date:       2020-05-04
 author:     千夜chiya
 header-img: img/2020/05/04/02/title.jpg

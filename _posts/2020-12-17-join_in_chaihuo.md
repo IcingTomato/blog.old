@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      终温且惠 淑慎其身
-subtitle:   记 Arduino Fundamentals Exam 和 进入柴火创客
+title:      记 Arduino Fundamentals Exam 和 进入柴火创客
+subtitle:   其实到现在都没搞清楚创客是啥
 date:       2020-12-17
 author:     千夜chiya
 header-img: img/2020/12/17/01/title.jpg
@@ -39,8 +39,6 @@ M5Stack的研发大大 [IAMLIUBO](https://blogs.oopswow.com/)
 # 致谢
 
 [啊泰](https://icomgx.cn/)大哥和元灏大哥是我的引路人
-
-[梦程](https://www.dreamcstudio.cn/)大大是我的启蒙老师
 
 [刘波](https://blogs.oopswow.com/)大哥的M5Stack把我成功拉入坑
 

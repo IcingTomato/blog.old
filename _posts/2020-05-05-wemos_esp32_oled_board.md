@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      君子如玉 温润精致
-subtitle:   WEMOS-ESP32 OLED模块从入门到入门
+title:      WEMOS-ESP32 OLED模块从入门到入门
+subtitle:   WEMOS-ESP32 OLED模块详细入门教程
 date:       2020-05-05
 author:     千夜chiya
 header-img: img/2020/05/05/02/title1.jpg

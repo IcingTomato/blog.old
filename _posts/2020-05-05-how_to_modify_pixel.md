@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      爱而不见 搔首踟蹰
-subtitle:   Google Pixel折腾记
+title:      Google Pixel折腾记
+subtitle:   Google Pixel XL的玩机心得
 date:       2020-05-05
 author:     千夜chiya
 header-img: img/2020/05/05/04/title.jpg
@@ -405,3 +405,7 @@ $ fastboot flash modem_b modem.img
 > 开机设置读取frp，得知是否首次开机。清除frp，伪装成首次开机。
 > 不幸的是，4月的官方镜像里的开机设置没有这种操作。开机设置才不管frp呢，必须联网。
 > 所以在恢复出厂设置前一定要看看你的安全补丁日期是哪个月的！！如果是4月的需要先刷回3月。
+
+# 2021年2月21日补记
+
+忘记是哪一次刷机的时候`Pixel`和`Pixel XL`的包搞混了，在`Pixel`上刷了`XL`的包，结果还能用？就是屏幕的`最小宽度`（可以在`设置 -> 系统 -> 开发者选项 -> 绘图` 下面更改）变了好像？

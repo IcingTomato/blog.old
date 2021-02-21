@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      野有蔓草 零露漙兮
-subtitle:   Kindle 电子阅读器的不完全使用（一）
+title:      Kindle 电子阅读器的不完全使用（一）
+subtitle:   没想到吧我还玩Kindle的
 date:       2020-09-05
 author:     千夜chiya
 header-img: img/2020/09/05/02/title.jpg

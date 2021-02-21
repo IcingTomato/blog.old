@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      绸缪束薪 三星在天 
-subtitle:   前端判断用户是否使用了代理
+title:      前端判断用户是否使用了代理 
+subtitle:   那我开全局代理
 date:       2021-02-20
 author:     千夜chiya
 header-img: img/2021/02/20/01/title.jpg

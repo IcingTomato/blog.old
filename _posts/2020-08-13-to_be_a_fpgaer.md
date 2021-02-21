@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      呦呦鹿鸣 食野之苹
-subtitle:   一个FPGAer的养成
+title:      一个FPGAer的养成
+subtitle:   FPGA初体验
 date:       2020-08-13
 author:     千夜chiya
 header-img: img/2020/08/13/01/title.jpg
@@ -13,10 +13,9 @@ tags:
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=27733963&auto=1&height=66"></iframe>
 
-# 特别鸣谢
+# 活动
 
-特别感谢[梦程](https://space.bilibili.com/88809897/)的提携与支持
-
+2020年Xilinx暑期学校，新工科联盟举办的。
 
 # 展示
 
