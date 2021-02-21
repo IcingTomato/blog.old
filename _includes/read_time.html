@@ -1,0 +1,7 @@
+<!-- Add Read Time and word count, by Pansy-Zhifei 2021.02.06-->
+{% capture words %}
+{{ content | number_of_words | minus: 0 }}
+{% endcapture %}
+{% unless words contains '-' %}
+{{ words | plus: 200 | divided_by: 100 | append: ' minute(s)' }}
+{% endunless %}

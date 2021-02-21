@@ -1,0 +1,7 @@
+<!-- Add Read Time and word count, by Pansy-Zhifei 2021.02.06-->
+{% capture words %}
+  {{ page.content | number_of_words | minus: 10 }}
+{% endcapture %}
+{% unless words contains "-" %}
+  {{ words | plus: 10 | append: " words" }}
+{% endunless %}
