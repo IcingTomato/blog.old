@@ -4,7 +4,7 @@ title:      写给玩家的FPGA入门指南（5）——Verilog（下）
 subtitle:   Verilog HDL和VHDL本来就不是同一个东西
 date:       2021-02-22
 author:     Zephray
-header-img: img/2021/02/22/6/title.jpg
+header-img: img/2021/02/22/6/1551068899842-20190224111128.png
 catalog: true
 tags:
     - FPGA
