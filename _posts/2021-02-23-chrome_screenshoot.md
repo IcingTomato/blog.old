@@ -4,7 +4,7 @@ title:      电脑上网页截图，一个 Chrome 就够了
 subtitle:   还要啥自行车
 date:       2021-02-23
 author:     千夜chiya
-header-img: img/2021/02/23/01/title
+header-img: img/2021/02/23/01/title.jpg
 catalog: true
 tags:
     - Chrome
