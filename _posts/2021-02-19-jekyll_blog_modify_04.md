@@ -26,7 +26,7 @@ tags:
 
 2. 根据PID号找到对应的程序：`tasklist|findstr "PID号"`，找到对应的程序名;
 
-3. 结束该进程：`taskkill /f /t /im 程序名`.
+3. 结束该进程：`taskkill /f /t /im "PID号"`.
 
 # GitHub本地仓库配置
 
