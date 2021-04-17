@@ -116,6 +116,9 @@ page-mathjax: true
 # Friends
 friends: [
     {
+        title: "江理工DINO协会",
+        href: "https://192.168.6.186/"
+    },{
         title: "稚晖的个人站",
         href: "http://www.pengzhihui.xyz/"
     },{
