@@ -116,8 +116,14 @@ page-mathjax: true
 # Friends
 friends: [
     {
-        title: "江理工DINO协会",
-        href: "https://192.168.6.186/"
+        title: "清华大学TUNA协会",
+        href: "https://tuna.moe/"
+    },{
+        title: "東京大学",
+        href: "https://www.u-tokyo.ac.jp/ja/index.html"
+    },{
+        title: "東京大学大学院情報理工学系研究科",
+        href: "https://www.i.u-tokyo.ac.jp/"
     },{
         title: "稚晖的个人站",
         href: "http://www.pengzhihui.xyz/"
